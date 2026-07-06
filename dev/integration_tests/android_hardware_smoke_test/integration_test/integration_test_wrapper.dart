@@ -6,8 +6,8 @@ import 'dart:async';
 import 'dart:convert';
 
 import 'package:android_driver_extensions/extension.dart';
-import 'package:android_hardware_smoke_test/constants.dart';
-import 'package:android_hardware_smoke_test/main.dart' as app;
+import 'package:androidhardwaresmoketest/constants.dart';
+import 'package:androidhardwaresmoketest/main.dart' as app;
 import 'package:flutter/services.dart';
 import 'package:flutter_driver/driver_extension.dart';
 

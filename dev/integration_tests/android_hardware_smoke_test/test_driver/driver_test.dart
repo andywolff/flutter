@@ -8,7 +8,7 @@ import 'dart:typed_data';
 
 import 'package:android_driver_extensions/native_driver.dart';
 import 'package:android_driver_extensions/skia_gold.dart';
-import 'package:android_hardware_smoke_test/constants.dart';
+import 'package:androidhardwaresmoketest/constants.dart';
 import 'package:flutter_driver/flutter_driver.dart';
 import 'package:image/image.dart' as img;
 import 'package:test/test.dart';
